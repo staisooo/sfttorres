@@ -1,0 +1,27 @@
+body {
+
+}
+.header {
+  font-style: italic;
+  font-weight: bold;
+  background-color: Azure;
+}
+.name {
+  text-align: center;
+  color: CornflowerBlue;
+}
+.about-me {
+  font-weight: normal;
+  font-size: 20px;
+}
+.title {
+  font-style: normal;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+li{
+  list-style: square;
+}
+.contact {
+  opacity: 0.60;
+}
