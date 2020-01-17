@@ -1,18 +1,24 @@
 body {
-
+  background-color: rgb(215, 216, 230);
+  text-align: center;
+  /*font-size: 16px;*/
 }
 .header {
   font-style: italic;
   font-weight: bold;
-  background-color: Azure;
+  background-color: rgb(182,195,247);
+  margin: 20px;
 }
 .name {
   text-align: center;
-  color: CornflowerBlue;
+  color: black;
 }
 .about-me {
   font-weight: normal;
   font-size: 20px;
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 10px;
 }
 .title {
   font-style: normal;
@@ -22,6 +28,11 @@ body {
 li{
   list-style: square;
 }
-.contact {
+/* .contact {
   opacity: 0.60;
+}
+ */
+.update {
+    font-style: italic;
+    opacity: 0.80;
 }
