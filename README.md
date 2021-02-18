@@ -2,5 +2,5 @@
 About Me
 - Github website: little bit about myself
 - last edit Feb 18 2021 THU
-- tbh outdated and needs a lot more work.
+- Needs additional information (I'm specifically thinking of 1st year design projects and Summer AutoCAD activities).
 
