@@ -1,38 +1,75 @@
 body {
-  background-color: rgb(215, 216, 230);
-  text-align: center;
-  /*font-size: 16px;*/
+    background-color: rgb(215, 216, 230);
+    text-align: center;
+    /*font-size: 16px;*/
 }
+
 .header {
-  font-style: italic;
-  font-weight: bold;
-  background-color: rgb(182,195,247);
-  margin: 20px;
+    font-style: italic;
+    font-weight: bold;
+    background-color: rgb(182, 195, 247);
+    margin: 20px;
 }
+
 .name {
-  text-align: center;
-  color: black;
+    text-align: center;
+    color: black;
 }
+
 .about-me {
-  font-weight: normal;
-  font-size: 20px;
-  text-align: left;
-  margin-left: 20px;
-  margin-right: 10px;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 10px;
 }
+
 .title {
-  font-style: normal;
-  text-transform: capitalize;
-  font-weight: bold;
+    font-style: normal;
+    text-transform: capitalize;
+    font-weight: bold;
 }
-li{
-  list-style: square;
+
+li {
+    list-style: square;
 }
+
+
 /* .contact {
   opacity: 0.60;
 }
  */
+
 .update {
     font-style: italic;
     opacity: 0.80;
 }
+
+
+/* 
+.video {
+    width: 100%;
+    border: 1px solid black;
+}
+
+.wrapper {
+    display: table;
+    width: auto;
+    position: relative;
+    width: 50%;
+}
+
+.playpause {
+    background-image: url(http://png-4.findicons.com/files/icons/2315/default_icon/256/media_play_pause_resume.png);
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    margin: auto;
+    background-size: contain;
+    background-position: center;
+} */
