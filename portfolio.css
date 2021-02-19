@@ -82,6 +82,11 @@ li {
     color: white;
 }
 
+div.container_me {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
 div.container {
     /* width: 1000px; */
     padding-left: 100px;
